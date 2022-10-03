@@ -2,3 +2,4 @@
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
 # Header 1
+# Header 2
